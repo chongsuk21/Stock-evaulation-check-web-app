@@ -1,0 +1,101 @@
+html,.abc{
+
+  background: #202020;
+    color: #ccc;
+}
+.defaultcard{
+  background: #202020;
+  border-color: #ff1a1a;
+  margin: 2%;
+
+  position: relative;
+
+   .title{
+    color: #A52A2A;
+    font-size:30px;
+  }
+  .description{
+    background-color: #484848;
+    font-size:20px;
+  }
+  .logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+
+  }
+
+}
+.firstgraph{
+  margin-bottom : 5%;
+}
+.thirdgraph{
+  margin-bottom : 5%;
+
+}
+.formTest{
+  padding: 5%;
+  background: #202020;
+  color:black;
+  font-size: 15px;
+  margin: 2%;
+
+
+}
+div.card-body{
+  background: #202020;
+}
+table{
+  font-size: large;
+}
+
+div.dcf{
+  margin: 2%;
+}
+
+.fa-caret-up{
+  color: green;
+}
+.fa-caret-down{
+  color: red;
+}
+
+div.progress{
+  background:linear-gradient(to right, green 20%,yellow 50%,red 0);
+  height: 50%;
+  size: auto;
+}
+
+#searchName{
+  height:50%;
+  width: 70%;
+
+
+}
+#submitBtn{
+  height:50%;
+  width: 10%;
+
+
+}
+.summary{
+  background-color: #202020;
+}
+
+.card-title{
+  font-size: x-large;
+}
+
+fa-caret-up {
+  display: inline;
+}
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  position: fixed;
+  top: 20%;
+  left: 35%;
+}
